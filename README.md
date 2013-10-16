@@ -1,9 +1,9 @@
 Record & Replay
 
 
-Logging Format
+#Logging Format
 date time ProcessID ThreadID LogTag: Info{dictionary}
-2013-10-15 00:00:00.008  7380  7392 LoggingInfo: {"inputType": botton, "value": 696793613}
+`2013-10-15 00:00:00.008  7380  7392 LoggingInfo: {"inputType": botton, "value": 696793613}`
 
 
 We can start using the above logging format first.
